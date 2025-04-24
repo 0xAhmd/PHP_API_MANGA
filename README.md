@@ -57,10 +57,3 @@ if ($conn->connect_error) {
 - MySQL 5.6 or higher
 - Web server (Apache, Nginx, etc.)
 
-## 🚀 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## 📄 License
-
-This project is open-source and feel free to contribute
